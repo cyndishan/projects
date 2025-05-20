@@ -34,7 +34,7 @@ Welcome to my data portfolio! In here, I document a summary of my projects in th
 
 | Project link | Completion Date | Tools | Description |
 |--------|------------------|--------|-------------|
-| [GenTech HR Dashboard](https://github.com/cyndishan/hr-dashboard) | April 2025 | SQL: Subqueries, aggregation, calculation, etc. for querying and analysis | This project analyzes employee performance and training data using Excel functions and tools, including data cleaning, lookup formulas, conditional logic, and pivot tables to generate actionable insights and organized visual summaries.|
+| [Data Ingestion from different sources](https://github.com/cyndishan/data-ingestion) | April 2025 | Python | This project .|
 | [Store Comparison Analysis](https://github.com/cyndishan/sales-analysis-project)| May 2025 | Excel Pivot Table, Pivot charts, Dashboard | Analyzed comparison sales data of two stores A & B using EXCEL, PIVOT TABLES, PIVOT CHARTS, SUMIF, etc.|
 
 ---
