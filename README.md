@@ -18,7 +18,7 @@ Welcome to my data portfolio! In here, I document a summary of my projects in th
 | Project link | Completion Date | Tools | Description |
 |--------|------------------|--------|-------------|
 | [GenTech HR Dashboard](https://github.com/cyndishan/hr-dashboard) | April 2025 | Excel Pivot Table, Pivot charts, Dashboard | This project analyzes employee performance and training data using Excel functions and tools, including data cleaning, lookup formulas, conditional logic, and pivot tables to generate actionable insights and organized visual summaries.|
-| [Store Comparison Analysis](https://github.com/cyndishan/sales-analysis-project)| May 2025 | Excel Pivot Table, Pivot charts, Dashboard | Analyzed comparison sales data of two stores A & B using EXCEL, PIVOT TABLES, PIVOT CHARTS, SUMIF, etc.|
+| [Store Comparison Analysis](https://github.com/cyndishan/sales-analysis-project)| May 2025 | Excel Pivot Table, Pivot charts, Dashboard | This project analyzes and compares sales data from two stores, A and B, using Microsoft Excel. Key Excel features used include Pivot Tables, Pivot Charts, and functions such as SUMIF to summarize, visualize, and draw insights from the data efficiently.|
 
 ---
 
@@ -26,7 +26,7 @@ Welcome to my data portfolio! In here, I document a summary of my projects in th
 
 | Project link | Completion Date | Tools | Description |
 |--------|------------------|--------|-------------|
-| [Bike Sales Analysis](https://github.com/cyndishan/sales-analysis-project-sql) | May 2025 | Excel Pivot Table, Pivot charts, Dashboard | Analyzed comparison sales data of three stores Baldwin Bikes, Rowlett Bikes and Santa Cruz Bikes using Relational Databases|
+| [Bike Sales Analysis](https://github.com/cyndishan/sales-analysis-project-sql) | May 2025 | Excel Pivot Table, Pivot charts, Dashboard | This project analyzes and compares sales data from three stores — Baldwin Bikes, Rowlett Bikes, and Santa Cruz Bikes — using relational databases. The analysis involved querying structured data across related tables to uncover trends, performance differences, and key sales insights.|
 
 ---
 
