@@ -34,7 +34,7 @@ Welcome to my data portfolio! In here, I document a summary of my projects in th
 
 | Project link | Completion Date | Tools | Description |
 |--------|------------------|--------|-------------|
-| [Data Ingestion from different sources](https://github.com/cyndishan/data_ingestion) | April 2025 | Python | This project .|
+| [Data Ingestion from different sources](https://github.com/cyndishan/data_ingestion) | April 2025 | Jupyter Notebook | This project demonstrates how to import data from various sources using Python in a Jupyter Notebook environment. The goal is to showcase versatility in handling different data formats commonly used in real-world data analytics.|
 | [Store Comparison Analysis](https://github.com/cyndishan/sales-analysis-project)| May 2025 | Excel Pivot Table, Pivot charts, Dashboard | Analyzed comparison sales data of two stores A & B using EXCEL, PIVOT TABLES, PIVOT CHARTS, SUMIF, etc.|
 
 ---
