@@ -9,7 +9,7 @@ Welcome to my data portfolio! In here, I document a summary of my projects in th
 - 📈 [EXCEL](#-excel) 
 - 🧮 [SQL](#-sql)  
 - 🐍 [Python](#-python)  
-- 📊 [PowerBI](#-tableau)  
+- 📊 [PowerBI](#-PowerBI)  
 
 ---
 
