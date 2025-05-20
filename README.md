@@ -27,7 +27,6 @@ Welcome to my data portfolio! In here, I document a summary of my projects in th
 | Project link | Completion Date | Tools | Description |
 |--------|------------------|--------|-------------|
 | [Bike Sales Analysis](https://github.com/cyndishan/sales-analysis-project-sql) | May 2025 | Excel Pivot Table, Pivot charts, Dashboard | Analyzed comparison sales data of three stores Baldwin Bikes, Rowlett Bikes and Santa Cruz Bikes using Relational Databases|
-| [Store Comparison Analysis](https://github.com/cyndishan/sales-analysis-project)| May 2025 | Excel Pivot Table, Pivot charts, Dashboard | Analyzed comparison sales data of two stores A & B using EXCEL, PIVOT TABLES, PIVOT CHARTS, SUMIF, etc.|
 
 ---
 
