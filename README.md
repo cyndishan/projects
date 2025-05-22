@@ -43,6 +43,6 @@ Welcome to my data portfolio! In here, I document a summary of my projects in th
 
 | Project link | Completion Date | Tools | Description |
 |--------|------------------|--------|-------------|
-| [more projects are coming]
+| [more projects are coming](https://github.com/cyndishan/power_bi)
 ---
 
