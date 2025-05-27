@@ -1,6 +1,6 @@
 # Cyndi's projects
 
-Welcome to my data portfolio! In here, I document a summary of my projects in the data field.
+Welcome to my data portfolio! In here, I document a summary of my projects in the data field through the way I am learning.
 
 ---
 
