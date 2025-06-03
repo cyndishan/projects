@@ -44,5 +44,6 @@ Welcome to my data portfolio! In here, I document a summary of my projects in th
 | Project link | Completion Date | Tools | Description |
 |--------|------------------|--------|-------------|
 | [Coffee Shop Sales Report](https://github.com/cyndishan/power_bi_coffee)| May 2025 | Power BI Desktop, DAX, Power Query | This project demonstrates how to generate meaningful insights from a coffee shop weekly sales data in Power BI environment. The goal is to showcase problem solving and data reporting in real-world data analytics.|
+| [Tourism Report](https://github.com/cyndishan/power_bi_tourism)| Jun 2025 | Power BI Desktop, DAX, Power Query | This report provides a clear and detailed look at key metrics and visualizations around revenue, visitor numbers, and customer satisfaction, making it an essential resource for stakeholders|
 ---
 
